@@ -28,3 +28,6 @@ class TestAmazonPage:
         self.page.enter_product("laptop")
         self.page.click_search()
         self.page.click_first_product()
+    
+
+'''these are the test files i have written'''
