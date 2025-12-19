@@ -25,3 +25,6 @@ class AmazonMainPage(SeleniumBase):
     # ---------------- RADIO BUTTON ----------------
     def select_four_star_rating(self):
         self.select_radio(REVIEW_4_STARS)
+
+
+'''Here we all the locators for the page'''
