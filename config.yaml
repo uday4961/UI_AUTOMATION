@@ -1,0 +1,9 @@
+browser:
+  name: chrome
+  headless: false
+
+urls:
+  amazon: "https://www.amazon.com"
+
+timeouts:
+  implicit_wait: 10
